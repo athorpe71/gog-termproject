@@ -6,10 +6,10 @@ Based off of the turn-based, tile-based, strategy game "Glory of Generals"
 
 *Graphics and Sounds have been used for educational purposes*
 
--Unit and Town images are from Freeciv
+-Unit and Town images from Freeciv
 
--Smoke and Explosion images links included in .java
+-Smoke and Explosion image links included in .java
 
--Tile images from links included in .java
+-Tile images from links included in .java file
 
--Faction icons and Sound files from "World Conqueror 3"
+-Faction icons and sound files from "World Conqueror 3"
